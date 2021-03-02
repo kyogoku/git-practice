@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-ローカルリポで変更(conflict発生)3回目
+ローカルリポで変更(conflict発生)4回目
